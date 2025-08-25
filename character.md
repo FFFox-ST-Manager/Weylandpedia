@@ -13,8 +13,6 @@
         <div class="id-profile-pic">
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/blake.png" alt="Blake">
         </div>
-    
-        <!-- Character Info -->
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
             <span class="id-value">Blake</span>
@@ -38,6 +36,33 @@
     </div>
 </div>
 
-<!-- Add more character cards as needed -->
+<div class="character-id-card">
+    <div class="id-card-content">
+        <!-- The profile picture -->
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/hannah.png" alt="Hannah">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Hannah</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">25</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Alumni, Nursing</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Yoga, Baking, Painting, Gardening, Soft Pop</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">Apartment</span>
+        </div>
+    </div>
+</div>
 
 </div>
