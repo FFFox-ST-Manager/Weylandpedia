@@ -1,11 +1,15 @@
 # Character Information
 
+<div class="character-search-container">
+    <input type="text" id="characterSearchInput" placeholder="Filter by character name...">
+</div>
+
 <div class="character-grid">
 
 <!-- Character Card Template -->
 <div class="character-card">
   <div class="character-image">
-
+   <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/kressa.png" alt="Kressa">
   </div>
   <div class="character-details">
     <h3>Kressa</h3>
@@ -19,7 +23,7 @@
 <!-- Another Character Card -->
 <div class="character-card">
   <div class="character-image">
-
+   <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/kressa.png" alt="Kressa">
   </div>
   <div class="character-details">
     <h3>Drake</h3>
