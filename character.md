@@ -9,7 +9,6 @@
 <!-- Character Card Template -->
 <div class="character-id-card">
     <div class="id-card-content">
-        <!-- The profile picture -->
         <div class="id-profile-pic">
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/blake.png" alt="Blake">
         </div>
@@ -38,9 +37,8 @@
 
 <div class="character-id-card">
     <div class="id-card-content">
-        <!-- The profile picture -->
         <div class="id-profile-pic">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/hannah.png" alt="Hannah">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/hannah.webp" alt="Hannah">
         </div>
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
