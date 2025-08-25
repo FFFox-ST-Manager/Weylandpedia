@@ -6,7 +6,6 @@
 
 ## Okamimimi Lore
 Mate marks, scent marking
---
 
 ## Nekomimi Lore
 Info
