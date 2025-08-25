@@ -141,6 +141,38 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/indigo.png" alt="Indigo">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Indigo</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">23</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Sophomore, Art Therapy</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Origami, Stargazing, Anime, Art, Collecting Stationary</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'2"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">284</span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/jenn.png" alt="Jenn">
         </div>
         <div class="id-info id-name">
@@ -198,6 +230,70 @@
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
             <span class="id-value">273</span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/kiera.png" alt="Kiera">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Kiera</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">25</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Freshman, Marine Biology</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Swimming, Diving, Rock Climbing, Parties, Karaoke</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">6'5"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">273</span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/mika.png" alt="Mika">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Mika</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">21</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Freshman, Computer Science</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Programming, DJing, Gaming, E-Sports, Anime</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'2"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">269</span>
         </div>
     </div>
 </div>
