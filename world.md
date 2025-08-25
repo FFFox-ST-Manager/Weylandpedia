@@ -5,7 +5,7 @@
 </div>
 
 ## Okamimimi Lore
-mate marks, scent marking
+Mate marks, scent marking
 --
 
 ## Nekomimi Lore
