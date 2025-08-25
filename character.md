@@ -1,11 +1,11 @@
 # Character Information
 
+
+
+<div class="character-grid">
 <div class="character-search-container">
     <input type="text" id="characterSearchInput" placeholder="Filter by character name...">
 </div>
-
-<div class="character-grid">
-
 <!-- Character Card Template -->
 <div class="character-card">
   <div class="character-image">
