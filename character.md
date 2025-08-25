@@ -202,4 +202,39 @@
     </div>
 </div>
 
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/rivet.png" alt="Rivet">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Rivet</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">22</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Freshman, Graphic Design</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Digital Art, Editing Pics, Hair Care, Videogames, Sakurai Café</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'1"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Location:</span>
+            <span class="id-value">270</span>
+        </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/upcoming.png" alt="Upcoming Release">
+        </div>
+    </div>
+</div>
+
 </div>
