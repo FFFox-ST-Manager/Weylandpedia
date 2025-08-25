@@ -8,6 +8,5 @@
 Mate marks, scent marking
 
 ## Nekomimi Lore
-Info
-matemarks
---
+Matemarks
+
