@@ -5,11 +5,11 @@
 ## Okamimimi Lore
 
 Info
-
+mate marks, scent marking
 --
 
 ## Nekomimi Lore
 
 Info
-
+matemarks
 --
