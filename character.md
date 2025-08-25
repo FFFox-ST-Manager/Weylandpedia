@@ -7,31 +7,39 @@
 <div class="character-grid">
 
 <!-- Character Card Template -->
-<div class="character-card">
-  <div class="character-image">
-   <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/kressa.png" alt="Kressa">
-  </div>
-  <div class="character-details">
-    <h3>Kressa</h3>
-    <p class="character-trait"><strong>Species:</strong> Okamimimi (Wolfgirl)</p>
-    <p class="character-trait"><strong>Age:</strong> 24</p>
-    <p class="character-trait"><strong>Room:</strong> #318</p>
-    <p class="character-description">A brilliant, shy tech enthusiast with violet hair and pink highlights. Has a tendency to ramble when excited about technical topics.</p>
-  </div>
-</div>
+<div class="character-id-card">
+    <!-- The profile picture -->
+    <div class="id-profile-pic">
+        <!-- The image tag will go here, remember the spaced format! -->
+        <!-- Example: < i m g src="path/to/profile.png" alt="Character Name"> -->
+    </div>
 
-<!-- Another Character Card -->
-<div class="character-card">
-  <div class="character-image">
-   <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/kressa.png" alt="Kressa">
-  </div>
-  <div class="character-details">
-    <h3>Drake</h3>
-    <p class="character-trait"><strong>Species:</strong> Okamimimi (Wolfboy)</p>
-    <p class="character-trait"><strong>Age:</strong> 21</p>
-    <p class="character-trait"><strong>Room:</strong> #271 (with Blake)</p>
-    <p class="character-description">A quiet, intelligent wolfboy who excels in his Arcane studies. Has a bushy wolf tail and doesn't drink coffee.</p>
-  </div>
+    <!-- Character Info -->
+    <div class="id-info id-name">
+        <span class="id-label">Name:</span>
+        <span class="id-value">Drake</span>
+    </div>
+    <div class="id-info id-age">
+        <span class="id-label">Age:</span>
+        <span class="id-value">21</span>
+    </div>
+    <div class="id-info id-major">
+        <span class="id-label">Major:</span>
+        <span class="id-value">Magical Theory</span>
+    </div>
+    <div class="id-info id-hobbies">
+        <span class="id-label">Hobbies:</span>
+        <span class="id-value">Writing, composing, reading, gaming</span>
+    </div>
+    <div class="id-info id-room">
+        <span class="id-label">Room N°:</span>
+        <span class="id-value">225</span>
+    </div>
+
+    <!-- The signature image -->
+    <div class="id-signature">
+        <!-- Example: < i m g src="path/to/signature.png" alt="Signature"> -->
+    </div>
 </div>
 
 <!-- Add more character cards as needed -->
