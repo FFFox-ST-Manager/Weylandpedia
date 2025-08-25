@@ -16,23 +16,23 @@
     <!-- Character Info -->
     <div class="id-info id-name">
         <span class="id-label">Name:</span>
-        <span class="id-value">Drake</span>
+        <span class="id-value">Blake</span>
     </div>
     <div class="id-info id-age">
         <span class="id-label">Age:</span>
-        <span class="id-value">21</span>
+        <span class="id-value">24</span>
     </div>
     <div class="id-info id-major">
-        <span class="id-label">Major:</span>
-        <span class="id-value">Magical Theory</span>
+        <span class="id-label">Year & Major:</span>
+        <span class="id-value">Freshman, Computer Science</span>
     </div>
     <div class="id-info id-hobbies">
         <span class="id-label">Hobbies:</span>
-        <span class="id-value">Writing, composing, reading, gaming</span>
+        <span class="id-value">Gaming, Computer Hardware, 3D Design, Reading Manga</span>
     </div>
     <div class="id-info id-room">
-        <span class="id-label">Room N°:</span>
-        <span class="id-value">225</span>
+        <span class="id-label">Room:</span>
+        <span class="id-value">271</span>
     </div>
 
     <!-- The signature image -->
