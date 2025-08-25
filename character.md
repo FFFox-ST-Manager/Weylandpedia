@@ -10,8 +10,7 @@
 <div class="character-id-card">
     <!-- The profile picture -->
     <div class="id-profile-pic">
-        <!-- The image tag will go here, remember the spaced format! -->
-        <!-- Example: < i m g src="path/to/profile.png" alt="Character Name"> -->
+        <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/blake.png" alt="Blake">
     </div>
 
     <!-- Character Info -->
