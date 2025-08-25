@@ -34,11 +34,6 @@
         <span class="id-label">Room:</span>
         <span class="id-value">271</span>
     </div>
-
-    <!-- The signature image -->
-    <div class="id-signature">
-        <!-- Example: < i m g src="path/to/signature.png" alt="Signature"> -->
-    </div>
 </div>
 
 <!-- Add more character cards as needed -->
