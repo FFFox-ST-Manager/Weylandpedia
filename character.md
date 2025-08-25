@@ -33,5 +33,3 @@
 <!-- Add more character cards as needed -->
 
 </div>
-
-
