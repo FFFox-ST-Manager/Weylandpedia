@@ -633,5 +633,68 @@
     </div>
 </div>
 
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/cairo.png" alt="Cairo">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Cairo</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">21</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Freshman, 3D Design</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Gaming, Anime, Pokémon</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'6"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">275</span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/seth.png" alt="Seth">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Seth</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">25</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Alumni, Nursing</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Baking, Painting, Gardening, Soft-Pop, Videogames, Yoga (Secret)</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'10"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">Apartment</span>
+        </div>
+    </div>
+</div>
 
 </div>
