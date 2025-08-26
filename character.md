@@ -1091,7 +1091,7 @@
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/muse.png" alt="Muse">
         </div>
         <div class="id-info id-name">
-            <span class="id-label">Name:</span>
+            <span class="id-label">Chosen Name:</span>
             <span class="id-value">Muse</span>
         </div>
         <div class="id-info id-age">
@@ -1099,8 +1099,8 @@
             <span class="id-value">29</span>
         </div>
         <div class="id-info id-major">
-            <span class="id-label">Year & Experiment Number:</span>
-            <span class="id-value">Sophomore, M-01</span>
+            <span class="id-label">Experiment Number:</span>
+            <span class="id-value">M-01</span>
         </div>
         <div class="id-info id-hobbies">
             <span class="id-label">Hobbies:</span>
