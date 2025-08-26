@@ -406,38 +406,6 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/nix.webp" alt="Nix">
-        </div>
-        <div class="id-info id-name">
-            <span class="id-label">Name:</span>
-            <span class="id-value">Nix</span>
-        </div>
-        <div class="id-info id-age">
-            <span class="id-label">Age:</span>
-            <span class="id-value">22</span>
-        </div>
-        <div class="id-info id-major">
-            <span class="id-label">Year & Major:</span>
-            <span class="id-value">Freshman, Environmental Sciences</span>
-        </div>
-        <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Watching Horror Movies, Gardening</span>
-        </div>
-        <div class="id-info id-sizes">
-            <span class="id-label">Height:</span>
-            <span class="id-value">5'5"</span>
-        </div>
-        <div class="id-info id-room">
-            <span class="id-label">Room:</span>
-            <span class="id-value">283</span>
-        </div>
-    </div>
-</div>
-
-<div class="character-id-card">
-    <div class="id-card-content">
-        <div class="id-profile-pic">
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/rein.png" alt="Rein">
         </div>
         <div class="id-info id-name">
@@ -540,7 +508,7 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/summer.webp" alt="Summer">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/summer.png" alt="Summer">
         </div>
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
@@ -552,7 +520,7 @@
         </div>
         <div class="id-info id-major">
             <span class="id-label">Year & Major:</span>
-            <span class="id-value">Freshman, Environmental Sciences</span>
+            <span class="id-value">Freshman, Environmental S.</span>
         </div>
         <div class="id-info id-hobbies">
             <span class="id-label">Hobbies:</span>
@@ -572,7 +540,7 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/vera.webp" alt="Vera">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/vera.png" alt="Vera">
         </div>
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
@@ -604,7 +572,7 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/warren.webp" alt="Warren">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/warren.png" alt="Warren">
         </div>
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
@@ -632,5 +600,38 @@
         </div>
     </div>
 </div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/nix.png" alt="Nix">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Nix</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">22</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Freshman, Environmental S.</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Watching Horror Movies, Gardening</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'5"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value">283</span>
+        </div>
+    </div>
+</div>
+
 
 </div>
