@@ -1167,7 +1167,7 @@
         </div>
         <div class="id-info id-major">
             <span class="id-label">Year & Major:</span>
-            <span class="id-value">Grad, Mycology</span>
+            <span class="id-value">Post-Grad, Mycology</span>
         </div>
         <div class="id-info id-hobbies">
             <span class="id-label">Hobbies:</span>
