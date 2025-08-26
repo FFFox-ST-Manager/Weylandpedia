@@ -844,7 +844,7 @@
         </div>
         <div class="id-info id-hobbies">
             <span class="id-label">Hobbies:</span>
-            <span class="id-value">Fashion, Social Media, Photography, Cosmetics, Karaoke, Hair Styling, Shopping, Puppy Cafes, Cosplay Events</span>
+            <span class="id-value">Fashion, Social Media, Photography, Cosmetics, Karaoke, Hair Styling, Shopping, Puppy Cafes, Cosplay</span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
