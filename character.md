@@ -1320,4 +1320,100 @@
     </div>
 </div>
 
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/fawne.png" alt="Fawne">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Fawne</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">23</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Occupation:</span>
+            <span class="id-value">Convenience Store Worker</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Romance Novels, Couple Watching, Fantasy Writing</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Designation:</span>
+            <span class="id-value">Cerberus Sister</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Home:</span>
+            <span class="id-value">Soft Pike Trailer Park</span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/neshe.png" alt="Neshe">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Neshe</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">23</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Occupation:</span>
+            <span class="id-value">Treasure Hunter</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Retro Games, Dumpster Diving, Trill Seeking</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Designation:</span>
+            <span class="id-value">Cerberus Sister</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Home:</span>
+            <span class="id-value">Soft Pike Trailer Park</span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/astrid.png" alt="Astrid">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Astrid</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">23</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Occupation:</span>
+            <span class="id-value">Hunter</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Hobbies:</span>
+            <span class="id-value">Receiving Gifts, Finding Marks</span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Designation:</span>
+            <span class="id-value">Cerberus Sister</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Home:</span>
+            <span class="id-value">Soft Pike Trailer Park</span>
+        </div>
+    </div>
+</div>
+
 </div>
