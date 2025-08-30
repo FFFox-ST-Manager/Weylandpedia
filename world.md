@@ -1,4 +1,4 @@
-# Weyland Lore
+# Weyland Lore (WIP)
 
 <div class="world-lore-search-container">
     <input type="text" id="worldLoreSearchInput" placeholder="Search world lore...">
