@@ -1302,8 +1302,8 @@
             <span class="id-value">Construction Workers</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Relationship:</span>
-            <span class="id-value">Sisters</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Heights:</span>
