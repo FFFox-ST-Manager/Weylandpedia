@@ -25,8 +25,8 @@
             <span class="id-value">Sophomore, Self-Taught Coding</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Coding, Pixel Art, gaming, Anime, Collecting Plushies, Making up songs</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -60,8 +60,8 @@
             <span class="id-value">Junior, Botany</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Reading Manga, Upbeat Music, Studying Plants, Enjoying Nature</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -92,8 +92,8 @@
             <span class="id-value">Freshman, Computer Science</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Gaming, Computer Hardware, 3D Design, Reading Manga</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -124,8 +124,8 @@
             <span class="id-value">Alumni, Nursing</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Yoga, Baking, Painting, Gardening, Soft Pop</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -156,8 +156,8 @@
             <span class="id-value">Sophomore, Art Therapy</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Origami, Stargazing, Anime, Art, Collecting Stationary</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -188,8 +188,8 @@
             <span class="id-value">Freshman, Biology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Gaming, Punk Music</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -220,8 +220,8 @@
             <span class="id-value">Freshman, History</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Reading, Sketching, Pokémon, Folk Music</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -255,8 +255,8 @@
             <span class="id-value">Sophomore, Botany</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Minature Painting, TTRPGs, Videogames, Anime</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -290,8 +290,8 @@
             <span class="id-value">Freshman, Marine Biology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Swimming, Listening to Vinyl Records, Stargazing, Reading Dystopian Novels, Boxing</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -322,8 +322,8 @@
             <span class="id-value">Freshman, Business</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Horror Movies, Alternative Music</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -357,8 +357,8 @@
             <span class="id-value">Freshman, Marine Biology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Swimming, Diving, Rock Climbing, Parties, Karaoke</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -389,8 +389,8 @@
             <span class="id-value">Freshman, Computer Science</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Programming, DJing, Gaming, E-Sports, Anime</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -421,8 +421,8 @@
             <span class="id-value">Alumni, Biology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Art, Drinking</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -456,8 +456,8 @@
             <span class="id-value">Freshman, Graphic Design</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Digital Art, Editing Pics, Hair Care, Videogames, Sakurai Café</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -491,8 +491,8 @@
             <span class="id-value">Freshman, Nursing</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Videogames, Dream-Pop, History, Storm Watching, Anime, Gardening</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -523,8 +523,8 @@
             <span class="id-value">Freshman, Environmental S.</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Peaceful Videogames, Lofi, Concerts, Gardening</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -555,8 +555,8 @@
             <span class="id-value">Freshman, Demonology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Pagan Rituals, Rock Music</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -587,8 +587,8 @@
             <span class="id-value">Junior, Psychology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Playing piano and violin, reading romance novels, watching horror movies</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -619,8 +619,8 @@
             <span class="id-value">Freshman, Environmental S.</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Watching Horror Movies, Gardening</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -651,8 +651,8 @@
             <span class="id-value">Freshman, 3D Design</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Gaming, Anime, Pokémon</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -683,8 +683,8 @@
             <span class="id-value">Alumni, Nursing</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Baking, Painting, Gardening, Soft-Pop, Videogames, Yoga (Secret)</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -715,8 +715,8 @@
             <span class="id-value">Sophomore, Chemistry</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Partying, Drug Creation, Chemistry Experiments</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -747,8 +747,8 @@
             <span class="id-value">Sophomore, Biological Science</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Drawing, Photography, Collecting Polaroids, Pokémon</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -779,8 +779,8 @@
             <span class="id-value">Freshman, Demonlogy</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Reading, Stargazing, Studying, Decorating Manor, Internet Browsing, Documentaries, Writing Diary</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -811,8 +811,8 @@
             <span class="id-value">Freshman, Computer Science</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Shitposting, Programming, Gaming, Late-night Chatting, Exploring Subcultures</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -843,8 +843,8 @@
             <span class="id-value">Freshman, Fashion Design</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Fashion, Social Media, Photography, Cosmetics, Karaoke, Hair Styling, Shopping, Puppy Cafes, Cosplay</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -875,9 +875,8 @@
             <span class="id-value">Bartender</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Jazz, People Watching, Cocktail Mixing, Sunrise Viewing
-</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -908,7 +907,7 @@
             <span class="id-value">Freshman, Physics</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
+            <span class="id-label">Lucky Hint:</span>
             <span class="id-value">Music, Gaming, Anime, Science</span>
         </div>
         <div class="id-info id-sizes">
@@ -940,8 +939,8 @@
             <span class="id-value">Sophomore, Business</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Gardening, Volleyball</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -972,8 +971,8 @@
             <span class="id-value">Sophomore, Culinary Arts</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Cooking, Gardening</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1004,8 +1003,8 @@
             <span class="id-value">Sophomore, Geology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Rock Hunting, Chewing</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1036,8 +1035,8 @@
             <span class="id-value">Sophomore, Fine Arts</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Indie Rock, True Crime Podcasts, Documentaries</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1068,8 +1067,8 @@
             <span class="id-value">Lucky's Assistant</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Coding, Rhythm Games, Collecting Cute Mechanical Keyboards, Anime, Homemade Bubble Tea</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1103,8 +1102,8 @@
             <span class="id-value">M-01</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Physical Contact, Teasing Others</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Appearance:</span>
@@ -1138,8 +1137,8 @@
             <span class="id-value">Sophomore</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Shopping, Driving, Clubbing</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1170,8 +1169,8 @@
             <span class="id-value">Post-Grad, Mycology</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Decorating, People Watching, Mycology</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Race:</span>
@@ -1202,8 +1201,8 @@
             <span class="id-value">Freshman, Fashion Design</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Drawing, Theater Costume Design, Black Metal, Video Games</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1237,8 +1236,8 @@
             <span class="id-value">Freshman, Fashion Design</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Caring for Plants, Video Games, 3D design, Debating Online</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
@@ -1272,8 +1271,8 @@
             <span class="id-value">Faculty</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Classified</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
@@ -1338,8 +1337,8 @@
             <span class="id-value">Convenience Store Worker</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Romance Novels, Couple Watching, Fantasy Writing</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Designation:</span>
@@ -1370,8 +1369,8 @@
             <span class="id-value">Treasure Hunter</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Retro Games, Dumpster Diving, Trill Seeking</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Designation:</span>
@@ -1402,8 +1401,8 @@
             <span class="id-value">Hunter</span>
         </div>
         <div class="id-info id-hobbies">
-            <span class="id-label">Hobbies:</span>
-            <span class="id-value">Receiving Gifts, Finding Marks</span>
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Designation:</span>
