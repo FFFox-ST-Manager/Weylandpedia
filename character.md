@@ -22,7 +22,7 @@
         </div>
         <div class="id-info id-major">
             <span class="id-label">Year & Major:</span>
-            <span class="id-value">Sophomore, Self-Taught Coding</span>
+            <span class="id-value">Sophomore, Coding</span>
         </div>
         <div class="id-info id-hobbies">
             <span class="id-label">Lucky Hint:</span>
