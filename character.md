@@ -1078,9 +1078,6 @@
             <span class="id-label">Room:</span>
             <span class="id-value"></span>
         </div>
-        <div class="id-signature">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/upcoming.png" alt="Upcoming Release">
-        </div>
     </div>
 </div>
 
