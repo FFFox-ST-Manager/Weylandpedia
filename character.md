@@ -1052,6 +1052,38 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/rosa.png" alt="Rosa">
+        </div>
+        <div class="id-info id-name">
+            <span class="id-label">Name:</span>
+            <span class="id-value">Rosa</span>
+        </div>
+        <div class="id-info id-age">
+            <span class="id-label">Age:</span>
+            <span class="id-value">23</span>
+        </div>
+        <div class="id-info id-major">
+            <span class="id-label">Year & Major:</span>
+            <span class="id-value">Freshman, Religious History</span>
+        </div>
+        <div class="id-info id-hobbies">
+            <span class="id-label">Lucky Hint:</span>
+            <span class="id-value"></span>
+        </div>
+        <div class="id-info id-sizes">
+            <span class="id-label">Height:</span>
+            <span class="id-value">5'7"</span>
+        </div>
+        <div class="id-info id-room">
+            <span class="id-label">Room:</span>
+            <span class="id-value"></span>
+        </div>
+    </div>
+</div>
+
+<div class="character-id-card">
+    <div class="id-card-content">
+        <div class="id-profile-pic">
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/kressa.png" alt="Kressa">
         </div>
         <div class="id-info id-name">
