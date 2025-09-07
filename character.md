@@ -1076,7 +1076,7 @@
         </div>
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
-            <span class="id-value"></span>
+            <span class="id-value">318</span>
         </div>
     </div>
 </div>
