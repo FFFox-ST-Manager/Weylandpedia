@@ -1046,6 +1046,9 @@
             <span class="id-label">Room:</span>
             <span class="id-value">317</span>
         </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/alpha.png" alt="Alpha Exclusive">
+        </div>
     </div>
 </div>
 
@@ -1077,6 +1080,9 @@
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
             <span class="id-value">318</span>
+        </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/alpha.png" alt="Alpha Exclusive">
         </div>
     </div>
 </div>
@@ -1380,6 +1386,9 @@
             <span class="id-label">Home:</span>
             <span class="id-value">Soft Pike Trailer Park</span>
         </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/beta.png" alt="Beta Exclusive">
+        </div>
     </div>
 </div>
 
@@ -1412,6 +1421,9 @@
             <span class="id-label">Home:</span>
             <span class="id-value">Soft Pike Trailer Park</span>
         </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/beta.png" alt="Beta Exclusive">
+        </div>
     </div>
 </div>
 
@@ -1443,6 +1455,9 @@
         <div class="id-info id-room">
             <span class="id-label">Home:</span>
             <span class="id-value">Soft Pike Trailer Park</span>
+        </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/beta.png" alt="Beta Exclusive">
         </div>
     </div>
 </div>
