@@ -744,7 +744,7 @@
         </div>
         <div class="id-info id-major">
             <span class="id-label">Year & Major:</span>
-            <span class="id-value">Sophomore, Biological Science</span>
+            <span class="id-value">Sophomore, Bio Science</span>
         </div>
         <div class="id-info id-hobbies">
             <span class="id-label">Lucky Hint:</span>
