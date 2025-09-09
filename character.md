@@ -433,7 +433,7 @@
             <span class="id-value">Apartment</span>
         </div>
         <div class="id-signature">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/upcoming.png" alt="Upcoming Release">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/beta.png" alt="Beta Exclusive">
         </div>
     </div>
 </div>
