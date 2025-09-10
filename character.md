@@ -414,7 +414,7 @@
         </div>
         <div class="id-info id-age">
             <span class="id-label">Age:</span>
-            <span class="id-value">26</span>
+            <span class="id-value">27</span>
         </div>
         <div class="id-info id-major">
             <span class="id-label">Year & Major:</span>
@@ -1333,7 +1333,7 @@
         </div>
         <div class="id-info id-age">
             <span class="id-label">Ages:</span>
-            <span class="id-value">23 & 24</span>
+            <span class="id-value">22 & 23</span>
         </div>
         <div class="id-info id-major">
             <span class="id-label">Occupation:</span>
