@@ -1,3 +1,50 @@
+# 20260619 Changelog
+
+- new system prompt
+- lauren narrator overhauled
+- overhauled ui for new users to simplify the WT experience
+- added the city of Karaveia Dun and the Koumenese culture
+- added some several new subbots
+- added the option to make the RP POV settings per chat if desired
+- added the old prompt as an option called Old Prompt 2026
+
+**Characters Updates**
+
+Briar
+
+- added her last name, Adeyemi
+
+Gemini
+
+- updated base set of expressions
+
+Khepri
+
+- added his indoor outfit
+
+Kressa
+
+- rearranged original greeting
+- added her second greeting
+
+Nara
+
+- finally released to ä̵̻́̈̑ḽ̴̏̆̀p̴̫͛̎̚h̸͍͛̽̐ȧ̵͍̲
+- fully released
+- outfits ḁ̷͗d̷͕͚͔͝ḍ̸͓́ë̶̯̘͠d̷̠̣̊̀
+- community outfits added
+
+Sofya
+
+- released to Alpha
+
+Sunny
+
+- updated greeting to correct Professor Akiyama's name
+
+Yue-Lin
+
+- updated thought instructions
 
 # 20260522 Changelog
 
