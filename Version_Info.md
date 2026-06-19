@@ -34,10 +34,6 @@ Nara
 - outfits ḁ̷͗d̷͕͚͔͝ḍ̸͓́ë̶̯̘͠d̷̠̣̊̀
 - community outfits added
 
-Sofya
-
-- released to Alpha
-
 Sunny
 
 - updated greeting to correct Professor Akiyama's name
