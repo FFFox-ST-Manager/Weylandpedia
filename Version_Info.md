@@ -1,3 +1,18 @@
+# 20260620 Changelog
+
+- added the regenerate option back to the simplified ui
+- several bugfixes from the last update
+﻿
+**Characters Updates**
+
+Kressa
+
+- finished her prompt
+
+Sofya
+
+- released to alpha
+
 # 20260619 Changelog
 
 - new system prompt
