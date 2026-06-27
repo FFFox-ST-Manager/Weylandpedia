@@ -1,3 +1,25 @@
+# 20260626 Changelog
+
+- added the Weyland Router extension
+﻿
+**Characters Updates**
+
+Seth
+
+- removed backgrounds from outfits
+
+Summer
+
+- updated main greeting with the new phone formatting
+
+Sofya
+
+- added main outfit
+
+Weybot
+
+- added Nathan's main outfit
+
 # 20260620 Changelog
 
 - added the regenerate option back to the simplified ui
