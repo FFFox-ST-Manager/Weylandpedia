@@ -1,3 +1,40 @@
+# 20260706 Changelog
+
+- new beta prompt prepared for better bypass with Sonnet 5.0
+
+**Characters Updates**
+
+Rein
+
+- removed backgrounds from outfits
+
+Sofya
+
+- released to Beta
+
+Willoe
+
+- removed backgrounds from outfit
+
+# 20260702 Changelog
+
+- Shiru did a major overhaul of the coding backend, significantly reducing the lag when sending or receiving messages, as well as when changing chats!
+- updated the main prompt to work with Sonnet 5.0
+- added a Hard Mode option for the main prompt
+- updated the Weyland Router extension
+- updated Vera's lore
+
+**Characters Updates**
+
+Belle
+
+- updated prompt
+
+Sofya
+
+- updated prompt
+- removed background from main outfit
+
 # 20260626 Changelog
 
 - added the Weyland Router extension
