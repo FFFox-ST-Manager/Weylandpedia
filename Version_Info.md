@@ -1,8 +1,12 @@
-# 20260706 Changelog
+# 20260707 Changelog
 
 - new beta prompt prepared for better bypass with Sonnet 5.0
 
 **Characters Updates**
+
+Muse
+
+- updated prompt to work with Sonnet 5.0
 
 Rein
 
