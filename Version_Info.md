@@ -1,5 +1,6 @@
-# 20260707 Changelog
+# 20260708 Changelog
 
+- new ltm creation system for parallel ltm creation while rp'ing
 - new beta prompt prepared for better bypass with Sonnet 5.0
 
 **Characters Updates**
