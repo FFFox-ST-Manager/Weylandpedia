@@ -1,7 +1,9 @@
-# 20260708 Changelog
+# 20260709 Changelog
 
 - new ltm creation system for parallel ltm creation while rp'ing
 - new beta prompt prepared for better bypass with Sonnet 5.0
+- several more speed optimizations completed by the awesome Shiru!
+- new backgrounds, including Mama's Den and Karaveia
 
 **Characters Updates**
 
@@ -17,7 +19,12 @@ Sofya
 
 - released to Beta
 
-Willoe
+Vera
+
+- main greeting updated
+- new greeting
+
+Willow
 
 - removed backgrounds from outfit
 
