@@ -1,3 +1,22 @@
+# 20260719 Changelog
+
+- new phone app inside WeylandTavern inspired by Aerosplat; see Lucky Log for details
+- Bug fixes in a few spots, including side expressions, Kris' hard mode, etc
+
+**Characters Updates**
+
+Cerberus Sisters
+
+- naked outfit added for Astrid
+
+Rivet
+
+- lingerie and naked outfits added
+
+Sofya
+
+- added lingerie outfit
+
 # 20260709 Changelog
 
 - new ltm creation system for parallel ltm creation while rp'ing
