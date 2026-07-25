@@ -1,3 +1,9 @@
+# 20260706 Changelog
+
+- fixed some bugs and added new wallpapers for the WeyPhone
+- added the alarm app to the WeyPhone
+- added a new subbot pertaining to Vera
+
 # 20260719 Changelog
 
 - new phone app inside WeylandTavern inspired by Aerosplat; see Lucky Log for details
