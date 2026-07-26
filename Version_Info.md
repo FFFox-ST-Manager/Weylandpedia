@@ -1,8 +1,9 @@
-# 20260706 Changelog
+# 20260725 Changelog
 
 - fixed some bugs and added new wallpapers for the WeyPhone
 - added the alarm app to the WeyPhone
 - added a new subbot pertaining to Vera
+- added more lore about the Oribasa Clan
 
 # 20260719 Changelog
 
