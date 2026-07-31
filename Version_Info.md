@@ -1,3 +1,16 @@
+# 20260731 Changelog
+
+- Added a Weybooru app to the WeyPhone
+- WeyPhone bug fixes
+- Weybot now leaves initial user message in chat for rerolls/edits
+- api migration for the new backend for our provider has been introduced to reduce the need for manually handing out new keys
+
+**Characters Updates**
+
+Muse
+
+- updated lorebook and prompts
+
 # 20260725 Changelog
 
 - fixed some bugs and added new wallpapers for the WeyPhone
