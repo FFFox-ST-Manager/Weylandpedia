@@ -7,6 +7,10 @@
 
 **Characters Updates**
 
+Lurkle
+
+- removed chat mode
+
 Muse
 
 - updated lorebook and prompts
