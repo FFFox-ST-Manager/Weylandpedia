@@ -1,3 +1,17 @@
+# 20260828 Changelog
+
+- moved the beta prompt to the main prompt and updated the beta prompt
+
+**Characters Updates**
+
+Rosa
+
+- updated main outfit
+
+Sofya
+
+- added naked outfit
+
 # 20260731 Changelog
 
 - Added a Weybooru app to the WeyPhone
