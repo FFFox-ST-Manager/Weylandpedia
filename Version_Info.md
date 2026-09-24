@@ -1,3 +1,51 @@
+# 20260924 Changelog
+
+- fukuroumimi lore added
+- added the Sam subbot
+- new subbots released for Tawny
+- added the WU Library
+- many updates to the WeyPhone
+- added several backgrounds
+- several bug fixes
+- other special changes detailed in Lucky's announcement
+
+**Characters Updates**
+
+Cerberus Sisters
+
+- Neshe's naked outfit has been added
+
+Dash
+
+- updated greeting
+
+Kris
+
+- full release
+- updated greeting
+
+Nefara
+
+- removed bg from main outfit
+
+Sofya
+
+- edited lingerie outfit
+- edited naked outfit
+- full release
+
+Sunny
+
+- main outfit added
+
+Tawny
+
+- initial Alpha release
+
+Yue-Lin
+
+- new greeting released
+
 # 20260828 Changelog
 
 - moved the beta prompt to the main prompt and updated the beta prompt
