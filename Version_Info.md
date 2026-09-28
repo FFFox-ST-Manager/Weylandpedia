@@ -1,3 +1,19 @@
+# 20260928 Changelog
+
+- expression bug fixes
+- other bug fixes
+
+**Characters Updates**
+
+Rein
+
+- fixed age variable
+
+Weybot
+
+- added a full Jericho main outfit
+- added subbot images for all subbots
+
 # 20260924 Changelog
 
 - fukuroumimi lore added
