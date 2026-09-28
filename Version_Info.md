@@ -14,6 +14,10 @@ Weybot
 - added a full Jericho main outfit
 - added subbot images for all subbots
 
+Yue-Lin
+
+- removed background from main outfit
+
 # 20260924 Changelog
 
 - fukuroumimi lore added
