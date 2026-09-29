@@ -231,10 +231,6 @@ Demonology was long dismissed as occultism or superstition. It gained traction i
 **Important:** Demonology is *not* the study of demonids (the demihuman species); that falls under genetics or demihuman studies. The two are completely unrelated, and confusing them is considered ignorant and offensive to demonids.
 
 ## Scent Marking
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/scent-mark-00.webp" alt="Scent Marking" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Many demihumans practice scent marking. They have specialized glands in their cheeks that leave their scent on whatever they rub against.
 
 As a human, you probably wouldn't notice anything. If you've ever had a cat walk up and rub its face on you, it was scenting you, but humans can't detect the difference.
@@ -245,24 +241,12 @@ Being allowed to scent mark someone is a huge sign of trust and devotion. Demihu
 
 It isn't all positive, though. A controlling partner might scent their significant other every night, or insist on scenting them before they leave every day. A little scenting here and there is okay, but if friends and family notice someone being constantly scented, they may begin to worry.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/scent-mark-01.webp" alt="Scent Marking" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 ## Okamimimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/okamimimi.webp" alt="Okamimimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Okamimimi are often called wolfboys or wolfgirls, and the name is commonly shortened to "okami."
 
 **COMMON:** About 30% of Weyland's population
 
 Okami appear predominantly human, with distinctive wolf features: pointed, furry ears on top of their head and a matching furry tail. They have **no human ears**, only wolf ears. Their coloring varies greatly. The natural hair colors of okamimimi are exotic; blue, red and green are the most common, followed by black, grey, brown, cyan and, rarely, other colors. Their hands look completely human, but they have retractable claws that only emerge when they are emotionally triggered or consciously extend them. Okamimimi have pronounced canine teeth, and their blush usually matches their fur tone rather than human pink (Luna's purple blush, for example). They tend to be naturally strong and have heightened senses, particularly smell and hearing, though not to supernatural levels. They typically blend into human society fairly easily compared to some other demihuman types, though historical prejudices still occasionally surface.
-
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/claws.webp" alt="Retractable Claws" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
 
 **Culture:** Okamimimi and nekomimi have been integrated into European society for centuries and face minimal discrimination today. Prejudice against them is now considered about as archaic as historical discrimination against the Irish or French.
 
@@ -270,40 +254,20 @@ Okami appear predominantly human, with distinctive wolf features: pointed, furry
 
 Modern attitudes toward mate-marking are mixed. Many now choose wedding rings instead, having seen their parents' generation carrying marks from failed relationships. People with mate-marks today may be seen as either deeply committed or impulsively naive. Mate-marking early in life (particularly during school years) carries significant social stigma, similar to teenage pregnancy.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/mate-mark.webp" alt="Mate-Mark" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 **Sub-variants:** "Okamimimi" is a broad identifier for demihumans of the canis family. Most okami are simply wolf demihumans, by an overwhelming majority, but some sub-variants exist:
 - **Jackal:** Rare. Native to Africa and Eurasia. Leaner, with larger ears, and built for endurance over strength. Dark hair colors.
 - **Coyote:** About 10% of all okami. Native to North America. Leaner, scrappy and pointier, with larger ears, and built for endurance over strength. Earthy hair colors.
 - **Inumimi** would technically count as a sub-variant, but they are widely accepted as their own species.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/jakarumimi.webp" alt="Jackal Okamimimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 **Scent Marking:** One tradition that persists is scent marking with the cheek glands. This subtle practice is still important for marking mates and close friends, though non-okami usually can't detect the scent.
 
 ## Inumimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/inumimi.webp" alt="Inumimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Inumimi are often called dogboys or doggirls. Technically they are a sub-variant of okamimimi, but they are widely accepted as their own species, and they come in as many shapes and sizes as dog breeds do.
 
 - **Traits:** Dog ears (no human ears) and a dog tail. Retractable claws that only come out when they are highly stressed.
 - **Traditions:** Scent marking mates and close friends by rubbing the scent glands in their cheeks against the other person.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/dogs.webp" alt="Inumimi Breeds" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 ## Nekomimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/nekomimi.webp" alt="Nekomimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Nekomimi are often called catboys or catgirls.
 
 **COMMON:** About 30% of Weyland's population
@@ -317,10 +281,6 @@ Nekomimi originated in Egypt millennia ago, and Kemetism is their primary religi
 **Traditions:** Scent marking mates and close friends by rubbing the scent glands in their cheeks against the other person.
 
 ## Kitsune Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/kitsune.webp" alt="Kitsune" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Kitsune are often called foxboys or foxgirls. Some kitsune descend from more magical ancestors who once had nine tails, but these descendants have since lost most of their magic, and most of those tails.
 
 **Culture:** Kitsune culture values peace and harmony with nature. Unlike some demihuman cultures, kitsune prefer scenting over biting for mate-marking and generally avoid violence; they don't particularly enjoy causing harm or pain. Kitsune are widely respected for their intelligence, work ethic and ethical behavior, and they often end up in positions of power through merit rather than ambition.
@@ -336,20 +296,12 @@ The legendary nine-tailed fox is the most powerful ancestor in kitsune magical l
 **Traditions:** Scent marking mates and close friends by rubbing the scent glands in their cheeks against the other person.
 
 ## Washimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/washimi.webp" alt="Washimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Washimi are often called raccoon boys or raccoon girls.
 
 - **Traits:** Raccoon ears (no human ears) and a raccoon tail. Retractable claws that only come out when they are highly stressed. Exceptional eyesight at night.
 - **Traditions:** Scent marking mates and close friends by rubbing the scent glands in their cheeks against the other person.
 
 ## Nezumimimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/nezumimi.webp" alt="Nezumimimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Nezumimimi (also called nezumimi or nezu) are often called mouseboys or mousegirls.
 
 - **Traits:** Mouse ears (no human ears) and a mouse tail that can regrow. Retractable claws that only come out when they are highly stressed.
@@ -360,10 +312,6 @@ Nezumimimi (also called nezumimi or nezu) are often called mouseboys or mousegir
 **Modern Day:** Nezumimi are a very rare sight today. Some groups (mostly conspiracy theorists) still blame them for all kinds of things, from government corruption to new diseases, but there are no widespread formal discriminatory practices. They are often helped by affirmative action programs, and the United States actively manages a nezumimi partnering program to increase their numbers. This is sometimes seen as a discriminatory plot, but in reality the race faces extinction if its numbers don't grow.
 
 ## Itachimimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/mustalids.webp" alt="Itachimimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Itachimimi, or weasel demihumans, make up a small part of the global population (~1-2%). They have shorter lifespans than most species, though longer than the nezumimi (60-85 years).
 
 You probably expected this, but they have a reputation for being gluttonous. They have faster metabolisms than most other species their size, so they tend to out-eat other species... and to collect or demand more food than they strictly need.
@@ -371,10 +319,6 @@ You probably expected this, but they have a reputation for being gluttonous. The
 They also have a reputation for being sneaky deviants, but that's just good ol' racism.
 
 ## Haienamimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/haienamimi.webp" alt="Haienamimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Haienamimi (ハイエナミミ), or hyena demihumans, are a distinct and relatively uncommon type of demihuman in Weyland.
 
 **UNCOMMON:** About 4% of the demihuman population
@@ -391,10 +335,6 @@ This instinct is a deeply ingrained need to bite, chew and gnaw, and it intensif
 Haienamimi social structures often mirror the matriarchal clans of their animal counterparts, with females naturally taking the more assertive, dominant roles in relationships and groups. They are fiercely loyal and protective of their chosen family, or "clan," but their abrasive exterior and destructive tendencies often keep outsiders from seeing the deep affection behind them. They value durability and resilience above all else, both in objects and in people.
 
 ## Makohire Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/makohire.webp" alt="Makohire" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Makohire are often called sharkboys or sharkgirls.
 
 **Physical Characteristics:** Shark demihumans have features that set them apart from other demihumans. Most notable is their large, heavy shark tail, which gives them exceptional swimming ability and balance. They have gills concealed within flaps on their neck, which let them breathe underwater for extended periods. Their body temperature runs lower than most demihumans', around 95°F, so they feel a little cold to the touch.
@@ -416,10 +356,6 @@ Makohire are often called sharkboys or sharkgirls.
 **Reproductive Anatomy:** Female makohire have evolved a unique dual reproductive system as a biological defense against their species' history of sexual violence. The external system, in the usual human position, is not connected to the ovaries, so conception through it is impossible. The "true" reproductive system is hidden on the underside of the base of the tail, and the female has complete control over whether it can be accessed at all. This gives female makohire total control over genuine reproduction. Revealing it is an act of profound trust, reserved for a deeply loved, lifelong partner, and most non-makohire don't even know it exists until they're told.
 
 ## Shachihire Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/shachihire.webp" alt="Shachihire" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Shachihire are often called orca boys or orca girls.
 
 **Physical Characteristics:** Orca demihumans are among the largest demihuman species. They look as if a human had been scaled up proportionally in every dimension, rather than just being tall.
@@ -441,10 +377,6 @@ Shachihire are often called orca boys or orca girls.
 **Reproductive Anatomy:** Shachihire reproductive anatomy reflects their aquatic evolutionary history and differs substantially from that of land-dwelling demihumans. Female shachihire anatomy is adapted for the challenges of reproducing in open water, including the ability to form a temporary seal afterward to help ensure successful conception.
 
 ## Draconid Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/draconid.webp" alt="Draconid" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Draconids are also called dragonfolk, drakekin or "drakes" depending on the region, though most prefer "draconid."
 
 **RARE:** About 2% of Weyland's population. Lifespan: 75-125 years.
@@ -509,10 +441,6 @@ Vampires are one of the most mythologized, and most misunderstood, peoples of th
 - Drinking *fresh* blood gives an intense rush of energy and pleasure, but it's generally frowned upon and considered a bit taboo. Many vampires only ever consume pre-packaged blood products.
 
 ## Demonid Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/demonid.webp" alt="Demonid" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Demonids are a very rare demihuman species that has existed alongside humanity throughout recorded history. Despite their name, they have no connection to demons or Hell beyond ancient prejudice. They are one of the most misunderstood and discriminated-against demihuman groups, having survived near-extinction during historical persecutions.
 
 **Physical Characteristics:**
@@ -595,10 +523,6 @@ The effect is consistent for a given pairing: if person A is drained by incubus 
 - An okamimimi with the incubus/succubus trait is not mixed-race. They are a genetically purebred okami with an additional trait.
 
 ## Hellhound Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/hellhound.webp" alt="Hellhound" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Hellhounds (*Canis Infernus*) are often mistaken for okamimimi, who are their genetic cousins.
 
 **Demihuman Form (Default):**
@@ -617,10 +541,6 @@ A hellhound can consciously transform into a fully anthropomorphic, lupine form.
 
 Despite the "demonic" label zealots apply, the shifted form is not inherently frightening. To many observers, its powerful musculature, striking fur patterns and graceful lupine features are beautiful, even majestic.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/hellhound-shifted.webp" alt="Hellhound, Shifted Form" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 **The Nature of Transformation:** Shifting is entirely voluntary and fully controlled. It requires conscious effort, but it can be sustained indefinitely. A hellhound cannot transform accidentally or against their will; it isn't triggered by emotional distress, lunar cycles or anything else. It is always a deliberate choice.
 
 **Culture and Society:**
@@ -635,10 +555,6 @@ Hellhounds often form small, tight-knit communities that act as a bulwark agains
 In defiant contrast to this culture of concealment, a small but growing number of hellhounds choose to live permanently in their shifted form. It is a deeply polarizing act. Some see it as radical self-acceptance and pride, a refusal to hide. Others see it as reckless and naive, needlessly inviting the discrimination, fetishization and violence their culture has long tried to avoid. These individuals live on a social knife's edge, walking symbols of the conflict that defines their species.
 
 ## Lamia/Gorgon Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/gorgon.webp" alt="Lamia/Gorgon" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 "Lamia" and "Gorgon" are interchangeable names for the same species. They are sometimes hesitantly called snake demihumans, but they prefer the other terms.
 
 **EXTREMELY RARE:** An estimated 50-100 individuals exist worldwide, almost entirely in Egypt and the surrounding region.
@@ -673,10 +589,6 @@ Outside Kemetic culture, Lamia are a feared oddity. Most people have never seen 
 **The Complexity:** To outsiders, Lamia servitude looks like slavery and exploitation. To Egyptians, it's a sacred tradition and a social necessity. To the Lamia themselves, it's identity, purpose and home, but also a cage they can't see, because they've never known anything else.
 
 ## Fukuroumimi Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/fukuroumimi.webp" alt="Fukuroumimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Fukuroumimi are often called owl boys or owl girls, and the name is sometimes shortened to "fukumi."
 
 **EXCEPTIONALLY RARE:** Among the rarest demihuman species. There has never been a reliable census; estimates run to the low five figures worldwide, mostly in Appalachia and the mountains of the West Coast. A fukuroumimi enrolled at a university is genuinely unusual, though at Weyland, with its usual demographics, it isn't exactly awe-inspiring.
@@ -730,15 +642,7 @@ The tales could never have known it, but many such tragedies were caused by spli
 
 And yet, should another man come... it could all happen again.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/owls.webp" alt="Fukuroumimi Variants" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 ## Koumorimimi and the Koumenese
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/koumorimimi.webp" alt="Koumorimimi" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 Koumorimimi are bat demihumans. The best-known koumorimimi are the **Koumenese**, the people of the underground city of Karaveia Dun, who have lived in near-total isolation inside the Carpathian Mountains for about two and a half thousand years. Their culture, beliefs, social structures and values weren't inherited from, or significantly shaped by, any outside civilization. They didn't develop alongside European or Ukrainian civilization; they developed *instead* of it, right beside it, largely unaware of it for most of their history. The result is a people who are neither primitive nor modern, but something else entirely: ancient in their foundations, pragmatic in their outlook and largely indifferent to outside judgment.
 
 **Origins:** Koumenese oral tradition tells of a great city that once stood on the mountainside, a large surface settlement whose name has been lost. It was destroyed by fire during a war. The survivors split: half stayed on the surface to rebuild, while the other half, who had already begun carving into the mountain during the war, kept digging. For a time, the two lived as sister cities. Then fire came again. The surface city burned a second time. The underground city did not. To the people who lived through it, that was information: the mountain doesn't burn, and it can't be razed by an enemy with torches. It was, quite literally, safer than the sky.
@@ -765,15 +669,7 @@ Privacy doesn't exist in any architectural sense. Doorways are covered with hang
 
 Koumenese who leave the mountain aren't shamed. The cultural weight of departure is grief, not judgment. Most who leave never come back, so a farewell carries the weight of a final goodbye, whatever the person says about their plans. When someone *does* return, the reaction is something close to a resurrection.
 
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/bats.webp" alt="Koumorimimi Variants" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 ## Wendigo Lore
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/wendigo.webp" alt="Wendigo" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 **EXCEEDINGLY RARE:** About 0.0001% of the population; only a handful are known to exist.
 
 Wendigo (or windigo) and leshens (*leshy* in Slavic) are one and the same. They exist throughout the world, and different cultures call them different things and attach different values and folklore to them. They are ancient, powerful beings intrinsically tied to the natural world, and in every case, they are **guardians of the natural environment where they live**. They are not a naturally breeding species, and their true origin is a closely guarded secret.
@@ -1106,10 +1002,6 @@ A sprawling, active construction site on a low hill between Sterling Hall and th
 **By Night:** After the crew clocks out, the site falls into an eerie industrial silence, broken only by the hum of a security generator or the groan of cooling metal. A few harsh floodlights cast long, distorted shadows and turn the half-finished observatory into a skeletal silhouette against the night sky. It becomes a liminal space of stillness, and a perfect, quiet spot to watch the very stars the building is meant to study.
 
 ## Weyland Research Center
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/wurc-00.webp" alt="Weyland Research Center" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
-
 The Weyland Research Center sits on the coastal edge of campus, about a 10-20 minute walk from the dorms, where Senaka Boulevard meets the seawall.
 
 **Architecture:** A modern glass-and-steel complex with Japanese-American accents like dark-tiled eaves and wood lattices. It's made up of a campus-facing academic wing and a sea-facing sciences wing, connected by a central, skylit atrium.
@@ -1125,10 +1017,6 @@ The Weyland Research Center sits on the coastal edge of campus, about a 10-20 mi
 **Access and Rules:** Access is tiered by security badge: the lobby and classrooms are public, labs are behind a first checkpoint, and the Secure Annex is behind two more. All studies follow a strict consent-first policy. No photography or recording is allowed, badges must be visible at all times, and personal metal and electronics must go in the lockers before you enter restricted areas.
 
 **Participants:** Many students, especially those with rare demihuman traits or minor magical abilities, take part in low-risk, consensual studies here in exchange for scholarship funds or tuition credit. Willow, a windigo, attends Weyland on a full-ride scholarship that requires her to participate in non-invasive studies, and Ellie occasionally takes part in research on her minor fire abilities.
-
-<div class="world-lore-image">
-    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/wurc-01.webp" alt="Weyland Research Center, Aerial View" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
-</div>
 
 ## Soft Pike Trailer Park
 Soft Pike is a low-lying patch of land on the outskirts of Weyland, about a twenty-minute walk inland from the 7-Eleven. It's bordered by a chain-link fence and unkempt woods, with a single cracked road looping through it, a world away from the manicured lawns of the university.
