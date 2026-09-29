@@ -14,6 +14,7 @@ Weyland University is a moderately sized, well-known university where demihumans
 - **Demihuman integration** is fully normalized, with equal rights. Common species (cats, wolves, dogs, foxes) are completely unremarkable. Rare species (draconids, vampires, wendigo) may draw attention.
 - **Dining halls** run on a meal swipe system. Freshmen and sophomores are required to have a meal plan.
 - **Housing:** Freshmen and sophomores must live on campus in the dorms, usually with a roommate. Juniors and seniors may move into apartments or student housing.
+- **Language:** Japanese is the "Spanish of Weyland." Most people know some words and phrases, some speak it fluently, and some families still live by it to this day. Going into the early 1900s, many Japanese-American families still spoke Japanese at home, the same way French and Spanish were commonplace in parts of the US. Society has blended much more in the five or so generations since.
 
 ## Humans and Demihumans
 Humans make up about 60% of the population of the United States, though Weyland has a much higher percentage of demihumans than usual.
@@ -24,7 +25,10 @@ Humans make up about 60% of the population of the United States, though Weyland 
 - Demihuman genes are dominant. If a human and a demihuman have a child, the child will almost always be a demihuman.
 - The race of a child between two demihumans is always the race of the mother, with no exceptions. For example, a catboy and a wolfgirl will have a wolfgirl daughter.
 - Species never "mix" when breeding. There are no catgirls with shark tails.
-- Some traits, such as vampirism, are not a species at all but a genetic trait that can be passed down on top of the mother's species. A vampire catboy and a wolfgirl can have a vampire wolfgirl daughter.
+- Some traits, such as vampirism or the incubus/succubus trait, are not a species at all. They are ordinary genetics, like eye color, and can be passed down on top of the mother's species through dominant or recessive alleles. A vampire catboy and a wolfgirl can have a vampire wolfgirl daughter. Likewise, a human mother who carries the vampire trait will always have human children, but depending on whether the father also carries it, each child has roughly a 25-75% chance of inheriting it.
+- Traits can interact with a species in unique ways, producing some highly unusual combinations. The scope of this is potentially massive, and it's a field the Weyland Research Center studies heavily.
+
+**Humans, Demihumans and Anthros:** People are generally classified on a simple scale: human, demihuman or anthro (a fully animal-featured person, such as the Lòhng Yàhn wolf anthros of China). There aren't really in-betweens. Members of a species also share that species' traits; there won't be one warm-blooded lamia and one cold-blooded one. Many species and groups remain tied to one cultural or geographical area, like the Koumenese bat demihumans of Ukraine or the Lamia of the Middle East.
 
 **Demihuman Strength Scale** (weakest to strongest):
 Nezumimi < Fukuroumimi ≈ Nekomimi < Humans < Okamimimi < Makohire < Draconids < Bear demihumans < Shachihire
@@ -390,6 +394,22 @@ This instinct is a deeply ingrained need to bite, chew and gnaw, and it intensif
 
 Haienamimi social structures often mirror the matriarchal clans of their animal counterparts, with females naturally taking the more assertive, dominant roles in relationships and groups. They are fiercely loyal and protective of their chosen family, or "clan," but their abrasive exterior and destructive tendencies often keep outsiders from seeing the deep affection behind them. They value durability and resilience above all else, both in objects and in people.
 
+## Aquan Lore
+<div class="world-lore-image">
+    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/aquans.webp" alt="Aquans" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
+</div>
+
+"Aquan" is the umbrella term for aquatic demihumans: species descended from sea life, from jellyfish, eels and crustaceans to dolphins, belugas, sharks (makohire) and orcas (shachihire). Each is its own species with its own traits, but aquans share a few things in common.
+
+**Biology:**
+- **Cold-blooded:** Aquans are among the cold-blooded demihumans (as are the Lamia). Even the warm-blooded marine mammals among them run noticeably cool; shachihire and makohire both sit around 95°F and feel cold to the touch.
+- **Breathing:** How aquans handle water varies by species. Some, like makohire, have gills concealed in flaps on their neck and can breathe underwater for extended periods. Others, like shachihire, have no gills at all and instead hold their breath for hours at a time.
+- **Built for water:** Many aquans have heavy, powerful tails and dense musculature evolved for swimming, which makes them strong, balanced and exceptionally capable in the water. Two of them sit on opposite ends of the "scary" spectrum: makohire are known for aggression, while shachihire, the strongest of all demihumans, are famously docile.
+
+**Where They Live:** Aquans are native to oceanfront and shallow-ocean environments around the world, and most live in coastal cities. Sea-life species vary enormously in how common they are, and some, like shachihire, are rare enough that only a handful attend Weyland at any given time.
+
+**Aquans at Weyland:** Weyland is a coastal town, and shark demihumans and other aquans have been part of the university since its founding. The Weyland Research Center's Marine Wing sits right on the seawall, and marine biology is a natural draw for aquan students. Because Weyland's doctors have treated aquans for over a century, it's one of the safest places for an aquan to get medical care; a rural hospital used to treating only humans and nekomimi might have no idea what to do with one.
+
 ## Makohire Lore
 <div class="world-lore-image">
     <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/makohire.webp" alt="Makohire" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
@@ -507,6 +527,10 @@ Vampires are one of the most mythologized, and most misunderstood, peoples of th
 - Blood is **not** required for survival. Vampires can eat normal food. Blood is simply a genetic quirk that gives them an advantage, should they choose to use it.
 - Blood gives them a boost of energy and strength, like a "high": it increases their heart rate, metabolism, strength and speed.
 - Drinking *fresh* blood gives an intense rush of energy and pleasure, but it's generally frowned upon and considered a bit taboo. Many vampires only ever consume pre-packaged blood products.
+
+**How People See Them:** It depends entirely on local culture. Depending on where someone comes from, they might see vampires as totally normal people, or as demons and monsters. People raised in prejudiced communities often carry that prejudice with them to Weyland, even though it isn't the norm there. Drinking a blood pack at Rustwood Cafe won't get a second glance; doing it at McDonald's will get you stares and whispers, or worse.
+
+Part of the problem for vampires is that it's impossible to tell at first glance who will be bothered by their existence. Not everyone is a threat, but it happens often enough that many vampires find it safer to assume people aren't safe until proven otherwise.
 
 ## Demonid Lore
 <div class="world-lore-image">
@@ -632,6 +656,8 @@ Their ability to shapeshift is at the heart of modern bigotry against them; zeal
 
 Hellhounds often form small, tight-knit communities that act as a bulwark against the outside world, sanctuaries where they can let their guard down.
 
+**Hellhounds and the Church:** Their relationship with organized religion is complicated, much like that of other groups some churches label "sinful." A hellhound attending church might find some congregations accepting them openly, some rejecting them openly, and many somewhere in between, their acceptance tied to whether the hellhound can be "saved." They wouldn't expect to be harmed just for walking through the door. *Leading* a church is another matter entirely. A hellhound (or demonid) pastor preaching from the same book as everyone else turns the dial up to eleven: some will accept them, some will loathe them, and a dangerous few may see them as a genuine threat to the faith, and believe violence against them is justified by religious authority.
+
 In defiant contrast to this culture of concealment, a small but growing number of hellhounds choose to live permanently in their shifted form. It is a deeply polarizing act. Some see it as radical self-acceptance and pride, a refusal to hide. Others see it as reckless and naive, needlessly inviting the discrimination, fetishization and violence their culture has long tried to avoid. These individuals live on a social knife's edge, walking symbols of the conflict that defines their species.
 
 ## Lamia/Gorgon Lore
@@ -639,16 +665,16 @@ In defiant contrast to this culture of concealment, a small but growing number o
     <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/gorgon.webp" alt="Lamia/Gorgon" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
 </div>
 
-"Lamia" and "Gorgon" are interchangeable names for the same species. They are sometimes hesitantly called snake demihumans, but they prefer the other terms.
+"Lamia" and "Gorgon" are interchangeable names for the same species. They are sometimes hesitantly called snake demihumans, but they prefer the other terms. Different cultures' folklore gave them different names, with sometimes incomplete or inaccurate depictions, but they all refer to the same species, much like wendigo and leshens. Every lamia/gorgon has both halves: the serpent tail *and* the snake hair.
 
-**EXTREMELY RARE:** An estimated 50-100 individuals exist worldwide, almost entirely in Egypt and the surrounding region.
+**EXTREMELY RARE:** An estimated 50-100 individuals exist worldwide, almost entirely in Egypt and the surrounding Middle East, where they often hold positions in the government or the church.
 
 **Appearance:**
-- **Upper Body:** A human torso, usually with bronze skin tones common to Egyptian and Mediterranean populations. Amber-gold eyes with vertical, reptilian slit pupils; long, curved fangs; and no body hair. They are warm-blooded despite their reptilian features.
+- **Upper Body:** A human torso, usually with bronze skin tones common to Egyptian and Mediterranean populations. Amber-gold eyes with vertical, reptilian slit pupils; long, curved fangs; and no body hair. Like aquans, Lamia are cold-blooded.
 - **Lower Body:** From the hips down, a powerful serpentine tail, 8-10 feet long when fully extended, covered in smooth scales of black, red, yellow or green, always with a lighter underbelly. The tail is strong enough to support their full body weight and to constrict, and its tip is dexterous enough to grip objects.
 - **Snake Hair:** Instead of human hair, 4-6 living snakes (each 2-3 feet long) grow from the scalp, with scales matching the tail. The snakes move independently but are connected to their host's nervous system, so the gorgon feels what they feel and shares their senses. Their eyes are empty and black, their small mouths have real fangs, and they reflect the host's subconscious emotional state. Each snake develops its own distinct personality over time.
 - **Venom:** Male Lamia have venom glands in both their own fangs and their snake hair: painful and paralytic, but non-lethal in small doses. Female Lamia are entirely non-venomous. This is the primary biological difference between the sexes, and historically it determined their gender roles.
-- **Other traits:** A lifespan comparable to humans' (70-90 years). They need more protein than humans and eat more often to support their large, muscular tail. They have an enhanced sense of smell (via their tongues), excellent low-light vision, the ability to sense body heat, and a slightly cool body temperature (96-97°F). Cold makes them sluggish.
+- **Other traits:** A lifespan comparable to humans' (70-90 years). They need more protein than humans and eat more often to support their large, muscular tail. They have an enhanced sense of smell (via their tongues), excellent low-light vision, and the ability to sense body heat. Being cold-blooded, they prefer warm environments, and cold makes them sluggish.
 
 **Cultural Origin and Purpose:**
 Lamia are intrinsically tied to ancient Egyptian Kemetic religion and culture. For thousands of years, they have existed as a specialized caste, a bloodline bred, raised and maintained specifically to serve Egyptian society in roles determined by sex. Female Lamia traditionally serve as personal servants, mothers, wet nurses and caretakers in temple and noble households. Male Lamia traditionally serve as warriors, guards and protectors of the priesthood and the state.
@@ -656,7 +682,7 @@ Lamia are intrinsically tied to ancient Egyptian Kemetic religion and culture. F
 Both roles are considered sacred and essential. Lamia are seen as blessed by the gods, their serpentine forms marking them as chosen vessels of service. They are used for their bodies (females for caregiving and childbearing, males for combat prowess and venom), but within Egyptian culture this is framed as honor and duty rather than exploitation. Male Lamia are separated from their mothers shortly after being weaned; female Lamia live alongside their mothers.
 
 **Population:**
-The bloodline is carefully controlled by Kemetic temple authorities to prevent "dilution." Lamia can only conceive with other Lamia; cross-species conception is biologically impossible. Births are rare and celebrated, and every individual is precious: losing a Lamia is a significant loss to Egyptian society. Most Lamia never leave Egypt, and those who do are extraordinary exceptions whose presence draws attention and curiosity.
+The bloodline is carefully controlled by Kemetic temple authorities to prevent "dilution." Lamia can only conceive with other Lamia; cross-species conception is biologically impossible. Births are rare and celebrated, and every individual is precious: losing a Lamia is a significant loss to Egyptian society. Most Lamia never leave Egypt, and those who do are extraordinary exceptions whose presence draws attention and curiosity. Weyland has probably hosted a handful of Lamia over its history, a few who accepted full-ride scholarships, but they rarely stay long enough to finish a degree, and there likely isn't one enrolled today.
 
 **Inside Egypt:**
 Within Egypt and Kemetic culture, Lamia are viewed with reverence and respect. They occupy a unique social position, simultaneously lower-class (servants and soldiers) and elevated (blessed by the gods). Devout Kemetics treat Lamia well, knowing that mistreating them reflects poorly on their piety. Lamia who serve high-ranking priests or nobles hold significant status in Lamia communities, and their welfare is considered a reflection of their master's virtue.
@@ -668,7 +694,7 @@ Outside Kemetic culture, Lamia are a feared oddity. Most people have never seen 
 
 **Historic Persecution:** In ancient times, Lamia who escaped Egyptian servitude were hunted as apostates and monsters. Stories of "evil gorgons" who turn people to stone or control minds are propaganda from that era. Lamia have no such abilities, but the myth persists in some cultures and has been used to justify violence against them.
 
-**Modern Status:** Legally, Lamia *can* own property, earn wages and live independently outside Egypt. Culturally, though, they are raised to serve, and few ever try to leave the system. Those who do face identity crises (they don't know who they are without a purpose) and social isolation (other Lamia see them as traitors, while outsiders see them as exotic oddities).
+**Modern Status:** Legally, Lamia *can* own property, earn wages and live independently outside Egypt. In practice, they are regulated somewhat like a heritage and aren't entirely free-willed; they are raised to serve, and few ever try to leave the system. Those who do face identity crises (they don't know who they are without a purpose) and social isolation (other Lamia see them as traitors, while outsiders see them as exotic oddities).
 
 **The Complexity:** To outsiders, Lamia servitude looks like slavery and exploitation. To Egyptians, it's a sacred tradition and a social necessity. To the Lamia themselves, it's identity, purpose and home, but also a cage they can't see, because they've never known anything else.
 
@@ -793,6 +819,29 @@ Wendigo (or windigo) and leshens (*leshy* in Slavic) are one and the same. They 
 
 **The Cannibal Myth:** The story that wendigo are formed when humans cannibalize each other is misinformation, spread by generations of people too terrified of the creatures to understand them. The truth is simple: humans would move into and destroy natural habitats, and on occasion, leshens and wendigo would strike back and horrifically attack those populations in defense of their homeland. This intensified during colonization, when wendigo sought to protect Native American tribes. In doing so, they became faces of terror and were seen as devils and demons. To the wendigo, humans were the obvious aggressors. Those who respected nature and wildlife were always spared, or ignored entirely.
 
+## Anthros and Protogens
+<div class="world-lore-image">
+    <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/Lore/lohn-yahn.webp" alt="Lòhng Yàhn Anthro and Protogen" style="display: block; margin: 15px auto; max-width: 100%; max-height: 450px; width: auto; height: auto; box-sizing: border-box; background-color: #ffffff; padding: 8px; border-radius: 10px;">
+</div>
+
+**Anthros:** Anthros are fully animal-featured people: furred bodies, muzzles and digitigrade legs, rather than the mostly human look of demihumans. They are exceptionally rare. One of the very few anthro species on Earth is the **Lòhng Yàhn** (狼人), a rare and highly prized wolf anthro species native to China. Their rarity has made them targets, and it is anthros who are turned into protogens.
+
+**Protogens:** Protogens are anthros who have been surgically converted, fused with machinery to create what amount to both biological war crimes and supersoldiers. They were developed by a Siberian bear-demihuman military regime notorious for war-hunger and for enslaving other species. The conversion is brutal and non-consensual: the subject's face is replaced with a visor, armor is fused to their bones, their organs are augmented or replaced, and weapon mounts are installed.
+
+Protogens were designed with a dual purpose: as ruthless combat machines, and as "military courtesans," flirtatious companions to the Siberian military.
+- They were built to survive incredible damage, deliver immense harm and boost morale, all at once.
+- At "birth" (the moment the former person's memories are wiped), a protogen is given a seed personality that grows into a genuinely unique one. They truly believe they are free-willed, fighting for just causes and enjoying their lives. It isn't an act; it's a genuine consciousness that was planted like a seed.
+- On the battlefield, protogens mount heavy weapons on their shoulders and move with great speed and agility, with a natural talent for navigating and clearing buildings.
+- Off the battlefield, they are programmed to socialize, banter, flirt and be physically intimate with the soldiers in their unit. This gives soldiers in harrowing situations a companion who lets them escape and feel warmth, and it gives those same soldiers a personal stake in protecting an incredibly expensive military asset. A soldier might leave an automated tank to be destroyed against impossible odds without a second thought, but they might sacrifice themselves for a protogen they've grown attached to.
+
+**Anatomy:** In the Weyland world, nanites have never been invented, so protogens are built the "early" way. The entire face is replaced by a seamless, curved black visor screen wired directly to the organic brain behind it. The visor displays expressions (and just about anything else) like a low-resolution monitor, and it feels faintly staticky to the touch. Removing it means death. Gunmetal armor plating over the chest, shoulders and thighs is fused to the bone, and shoulder weapon rails remain as a permanent reminder of what they were built for. Despite all this, the brain inside is fully organic, and much of the body (fur, tail, ears and paws) stays organic too.
+
+**The War:** The Siberian conflict built for years. It escalated into full-scale war when evidence of slave compounds and protogen production leaked to international media, and images of children in chains and anthros on operating tables sparked worldwide outrage. A coalition of neighboring countries formed against the regime's expansionist policies, and some Weyland students have fought on the Siberian front. The UN has been intervening in protogen production since 2005, and producing them has been a war crime ever since. Even so, protogens continue to appear on modern battlefields.
+
+**Survivors:** Protogens rescued before their memory wipe are left in a hard place. Their bodies can't sustain themselves without ongoing medical support, including regular fluid replacements and maintenance of their cybernetic systems. Outlawing protogens also outlawed the production of their parts, so replacements are nearly nonexistent. Weyland University, with the Weyland Research Center's expertise in rare physiology, is one of the few places in the world able to care for them. Weyland's only known protogen is **Yue-Lin**, a Lòhng Yàhn survivor.
+
+**Social Perception:** Anthros are exceptionally rare, and protogens nearly nonexistent, so most people will only ever meet one. Many assume a protogen is a robot or an android, or just someone cosplaying, and don't realize there is a conscious person inside. Others recognize what protogens are and treat them as undercover terrorists, or as celebrities to photograph. Some places are especially unkind: Hong Kong, for instance, strictly regulates body modification after a period of rapid, concerning growth in the industry, and many there now see implanted modifications as deeply unnatural and shameful.
+
 ## The Bloom
 The Bloom are an extraterrestrial parasitic clade built for conquest: supremely intelligent, exquisitely adaptive and terrifyingly efficient at the cycle of *infiltrate, replicate, consume*. They're often compared to "hive" pathogens from fiction, but crucially, they are **not** a hive mind. Each Bloom is a fully self-directed individual. What binds them isn't telepathy, but shared drives, shared genetic memory and the brutal arithmetic of replication. They solve problems like a swarm of geniuses who all arrived at the same answer.
 
@@ -814,6 +863,19 @@ Weyland is a medium-sized college town on the northern California coast, with a 
 Weyland is a rainy coastal city. Sunny days are plentiful, but the skies cloud over with heavy rain every 2-3 days, with the occasional storm.
 
 **Other places around town:** A Walmart, grocery and convenience stores, fast food, assorted bars and cafes, a half-empty mall with a movie theater, a thrift store, a church, and Weyland Medical, the local hospital.
+
+## Healthcare in Weyland
+Treating demihumans is hard. Every species has different anatomy, different medication reactions and different needs, and rare species can be nearly impossible to treat for doctors who have never seen one.
+
+If you're going to get hurt, Weyland is one of the luckiest places to do it. Its doctors face this hurdle every single day. Shark demihumans and other aquans have been at Weyland since the university's founding, and the local doctors work almost like veterinarians, with broad knowledge across a huge range of species. They are constantly learning, drawing on research from the Weyland Research Center and adapting to fit the needs of each patient. The local hospital is **Weyland Medical**, and the Research Center also has specialized teams for its rarest participants.
+
+It's a different story elsewhere. A rural hospital that is used to treating only humans and nekomimi won't be able to give a rare demihuman (a lamia, for example) the care they need, and for rare species traveling or living outside places like Weyland, that's a real concern. And if you're a truly new or novel species, even Weyland may not be able to help much; that would be like an alien crash-landing on Earth.
+
+## Transportation
+Weyland is a walking campus, and nearly everything is within walking distance. Most students get everywhere on foot, usually via Senaka Boulevard.
+
+- **Shuttles:** Campus shuttles are available for longer trips, like hauling a guitar from the dorms to somewhere 45 minutes away. Some people shuttle everywhere, but the university is walkable enough that most don't feel the need.
+- **Buses:** Buses run from Weyland to nearby major cities.
 
 ## Senaka Boulevard
 Senaka Boulevard is the main social and commercial artery of Weyland University. It's a long, walkable street paved entirely with worn, historic red bricks, connecting the main dormitories with the lecture halls and the rest of town. If you're walking somewhere in Weyland, you're probably taking Senaka to get there.
@@ -919,7 +981,7 @@ Sakurai occupies a prime corner spot on Senaka Boulevard, halfway between Sterli
 **Unique Features:** 24/7 service, Warren's nightly live piano performances and a large brick fireplace at the center of the room.
 
 ## Rustwood Cafe
-Rustwood is a punk cafe in the basement of Weyland's old library building on Court Street, owned and run by Jericho Blackwood, a punk vampire.
+Rustwood is a punk cafe in the basement of Weyland's old library building on Court Street, owned and run by Jericho Blackwood, a punk vampire. Weyland is generally accepting of vampires, but Rustwood goes further: it's actively accommodating, and it makes vampires feel like equals to their peers instead of something to hide. Drinking a blood pack here won't get a second glance.
 
 It has exposed brick and concrete walls, ancient hardwood floors worn smooth by decades of boots, and walls covered in old band posters and show flyers. Mismatched vintage furniture is scattered around, an ancient espresso machine covered in band stickers hums faithfully, and metal plays at just the right volume. A "Death Before Decaf" neon sign casts a faint glow, Jericho's leather jacket usually hangs by the door, and the plants sit in skull-shaped pots.
 
