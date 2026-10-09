@@ -1,3 +1,15 @@
+# 20261005 Changelog
+
+- four system prompts now selectable: Current, 2026, 2025, and Mini
+- all prompts updated with new Sonnet 5.5 bypass and are now compatible with analysis toggle and Course Correction
+- Course Correction modifiers added: new Hard Mode siblings targeting specific traits; custom Course Corrections also supported
+- Narrators overhauled: unique per-narrator writing styles, secret lorebooks added, !Command roleplay entry (e.g. !Salem), OOC Mode access
+- Copycat: Catnip stash added for storing and reusing prompts
+- Gemini Filter Guide added
+- Registrar Weyphone: timestamps and bot messages can now be edited
+- Kinsbane Manor, Mirror World, Muse, & Weybot prompts reworked
+- many bug fixes
+
 # 20260928 Changelog
 
 - expression bug fixes
