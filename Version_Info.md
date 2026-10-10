@@ -1,3 +1,13 @@
+# 20261010 Changelog
+
+- bug fixes
+
+**Characters Updates**
+
+Tawny
+
+- full release
+
 # 20261005 Changelog
 
 - four system prompts now selectable: Current, 2026, 2025, and Mini
