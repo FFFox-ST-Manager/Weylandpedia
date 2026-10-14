@@ -1,3 +1,32 @@
+# 20261014 Changelog
+
+- new Error Message Information page in PromptOS to help troubleshoot common errors
+- the Storytelling Settings button now opens PromptOS
+- narrator choice no longer resets when using multiple tabs or devices
+- scene sheets no longer show up in finished messages; a "Message Interrupted" notice now appears if a reply gets cut off
+- one-click switch between Streamlined UI and Full UI
+- Dorm Layouts is now a searchable Sterling Hall directory
+- Character Downloader: downloads can now be queued and canceled, and characters can be removed
+- WeyPhone: new Phone & Clock settings, Course Corrections can now apply to texting and Kressa, and tap-to-enlarge in Mien
+- Long-Term Memory panel now works on phones
+- side characters now appear when they're doing something in action text
+- Baphomet Visibility added to PromptOS for Bap (replaces !Mute)
+- Jenn, Summer, Ellie, Kris, and Blake subbots rewritten
+- new lore, including Lohng Yahn and Bellucis, and Remy is now linked with the Cerberus Sisters
+- many bug fixes
+
+**Characters Updates**
+
+Aiko
+
+- updated lorebook commands
+
+Kiera
+
+- updated age
+
+@Weytav Updates
+
 # 20261010 Changelog
 
 - bug fixes
