@@ -1,3 +1,26 @@
+# 20261101 Changelog
+
+- added a year toggle to PromptOS to add the year to the header
+- weyphone bug fixes
+
+**Characters Updates**
+
+Bastet
+
+- fixed age variable
+
+Lyris & Vesper
+
+- added new greeter for Lyris
+
+Yue-Lin
+
+- updated naked outfit
+
+Weybot
+
+- updated Deredra's main outfit
+
 # 20261014 Changelog
 
 - new Error Message Information page in PromptOS to help troubleshoot common errors
