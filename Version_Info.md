@@ -1,3 +1,32 @@
+# 20261105 Changelog
+
+- big speed boost: no more ~3 second freeze before and after every message, and chats open about twice as fast
+- automatic backgrounds rebuilt from scratch: way more backgrounds can show up now, picked by place, time of day, weather and holidays; also should now not affect locked backgrounds
+- side character portraits now change with their own mood and keep it after a reload
+- fixed portraits sometimes freezing on the old sprite after quick mood changes
+- reply header fixes: Kinsbane and Muse headers display properly again, and "Ruby Hall" no longer turns into a mode badge
+- HelixMind keys are now checked before saving, so a typo can't leave you without a key and fixed first-time setup sending every tier to the Beta channel link
+- a verified Plus/Platinum password now also unlocks Alpha/Beta characters in the Downloader
+- DeepSeek and MiniMax have been retired by HelixMind; anything set to them now uses Gemini 3.8 Flash
+- WeyPhone: texting now works with characters that don't have personality data yet
+- fixed several typos and bugs in the main lorebook
+
+**Characters Updates**
+
+Muse
+
+- updated model recommendations
+- example dialogue now uses your name
+
+Rosa
+
+- reworked the concert greeting's intro (punk show at the Kodo Bowl)
+- fixed room number (#315)
+
+Willow
+
+- typo fix
+
 # 20261101 Changelog
 
 - added a year toggle to PromptOS to add the year to the header
