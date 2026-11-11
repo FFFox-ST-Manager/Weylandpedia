@@ -1,3 +1,44 @@
+# 20261110 Changelog
+
+- new WeyPhone app: the WeyStore. Pick which apps are on your phone, drag them around to arrange your home screen, and sort them into folders. Removing an app only hides it, nothing you saved is deleted
+- new: Last Smoke (demo), a noir card game with Belle, Eve and Astrid. __Add it from the WeyStore.__ It runs offline on your phone and costs no messages
+- Mien can now lock an expression until you unlock it
+- new experimental Character Thoughts switch in PromptOS for Summer, Belle and Loona (per chat)
+- greeting pictures can show up larger on desktop (about 15% larger), tall ones especially
+- new lore: demihuman heat cycles, Jericho's apartment, and an expanded Rustwood Cafe
+- Vindica and Jericho subbots heavily upgraded (~5x their previous size)
+- WeyPhone: only the thread you have open stays Linked, so two threads with the same person no longer both get read into the roleplay
+- WeyPhone: Dash's portrait now shows up when the name "Dakota Ash" is used
+- fixed Shani's blindfold color in the caravan lorebook (brown, not white)
+- typo fixes across several characters
+
+**Characters Updates**
+
+Summer
+
+- full overhaul and expansion: new personality, updated first greeting and updated first greeting art
+- her parents, Vindica and Jericho, rewritten to match
+- updated outfits to new model
+- add harvest fairy outfit
+
+Belle
+
+- two new greetings with new art (same night)
+
+REDACTED
+
+- new art for both greetings
+- small fixes to her personality, greetings and to Vortex
+- updated outfits
+
+Weybot
+
+- updated Jade's outfits to new model
+
+Karmen, Nefara, Professor Akiyama, Shani, Sofya, Tawny, Cerberus Sisters, Sunny, Briar, Muse
+
+- typo fixes, restored age variables
+
 # 20261105 Changelog
 
 - big speed boost: no more ~3 second freeze before and after every message, and chats open about twice as fast
