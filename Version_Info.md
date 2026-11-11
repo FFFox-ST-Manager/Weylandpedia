@@ -14,6 +14,19 @@
 
 **Characters Updates**
 
+Blake
+
+- updated three outfits to new style
+- added coding outfit
+
+Bianca
+
+- updated outfits to new style
+
+Briar
+
+- updated regular outfit to new style
+
 Summer
 
 - full overhaul and expansion: new personality, updated first greeting and updated first greeting art
