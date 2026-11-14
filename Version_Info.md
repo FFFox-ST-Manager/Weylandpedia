@@ -1,3 +1,22 @@
+# 20261113 Changelog
+
+- scenario advancement for Lyris & Belle's new scenarios are setup
+- expanded Last Smoke demo's dialogue, along with edits and fixes
+- updated model defaults with the loss of Gemini 3.8
+- PawXai deafults to 4 prompts for new installs
+- updated theme colors for Copycat 
+- revised LTM prompt to push for explicit language when relevant
+
+**Characters Updates**
+
+Blake
+
+- ear fixes
+
+Summer
+
+- greeting typo fix
+
 # 20261110 Changelog
 
 - new WeyPhone app: the WeyStore. Pick which apps are on your phone, drag them around to arrange your home screen, and sort them into folders. Removing an app only hides it, nothing you saved is deleted
