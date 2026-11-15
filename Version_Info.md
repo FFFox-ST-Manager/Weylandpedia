@@ -2,7 +2,6 @@
 
 - scenario advancement for Lyris & Belle's new scenarios are setup
 - expanded Last Smoke demo's dialogue, along with edits and fixes
-- updated model defaults with the loss of Gemini 3.8
 - PawXai deafults to 4 prompts for new installs
 - updated theme colors for Copycat 
 - revised LTM prompt to push for explicit language when relevant
