@@ -1,3 +1,10 @@
+# 20261115 Changelog
+
+- fixed big menus freezing the page, most noticeable on phones (Change School Year or Scenario, starting a new Mirror Weyland chat, starting a new Kinsbane Manor chat)
+- group texts can now observe your roleplay, same as one-on-one texts
+- new PromptOS error help entry for "provider circuit breaker is open"
+- Loona and Belle can now swap starting scenarios mid-chat from PromptOS (Roleplay Intro Context > Starting scenario)
+
 # 20261113 Changelog
 
 - scenario advancement for Lyris & Belle's new scenarios are setup
