@@ -1,3 +1,34 @@
+# 20261118 Changelog
+
+- new WeyPhone app: Foxfire Fortunes (currently Paw Patrol Platinum exclusive, will become PP Plus after alpha testing). Ellie reads you a fortune, and your roleplay follows it like a loose script
+- Foxfire Fortunes: pick what happens in each scene, set darkness, spice, pace and connection, give the story two endings, edit any line before sealing it in, and keep fortunes for later on the wishing branch
+- Foxfire Fortunes is featured in the WeyStore, with screenshots on its store page
+- new Starting Scenario picker in PromptOS: move a running chat forward to a later intro for Belle, Blake, Summer, Jenn, Serra, Lyris & Vesper, Nix, Willow, Hannah, Indigo, Ellie, Yue-Lin and Vera
+- the "Move forward in the story?" warning now shows inside the phone
+- Belle and Garrett now show up as textable when starting a group chat in WeyPhone
+- Muse's story popup no longer opens on her custom start
+- Bloom lore updated
+- Sterling Hall: Eve and Rosa Faulkner's rooms corrected in Housing and Dorm Layouts, and Gaven and Roy no longer show on the 2nd floor
+- many bug fixes
+
+**Characters Updates**
+
+Blake
+
+- coding outfit updates
+
+Ellie
+
+- now secretly loves fortune telling and tarot culture (even if she doesnt believe in it)
+
+Lyris & Vesper
+
+- greeting image fixed
+
+Summer
+
+- greeting typo fix
+
 # 20261115 Changelog
 
 - fixed big menus freezing the page, most noticeable on phones (Change School Year or Scenario, starting a new Mirror Weyland chat, starting a new Kinsbane Manor chat)
