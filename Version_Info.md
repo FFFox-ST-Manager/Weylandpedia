@@ -1,4 +1,21 @@
+# 20261120 Changelog
+
+- New Beta prompt in PromptOS: **Beta Prompt 3**. Same as Current, but with a reworked scene sheet that reduces models from capitalizing ONE random word per SENTENCE
+- The Character Thoughts switch is now on every character and intro that has thoughts, including Vera (all three intros) and Fawne
+- Foxfire Fortunes: your mode (ONYX/RUBY/SAPH) shows in the header again during a story, and i've tweaked the prompt to improve the recognition of chapter changes
+- Mien now credits the artist who drew each character's expressions
+- Fixed "Couldn't find sprite file" in Mien on some characters
+- Streamlined UI now shows "Auto-lock a chosen persona to the chat" in the persona menu (off by default)
+- many bug fixes
+
+**Characters Updates**
+
+Bianca
+
+- fixed an expression typo
+
 # 20261119 Changelog
+
 - Fixed bug preventing plus members from upgrading to platinum on the home screen
 - WeyPhone apps and Foxfire Fortunes now use whatever API you have selected, the same as the chat (they were stuck on HelixMind)
 - Foxfire Fortunes: your spread and an unsealed fortune survive a failed request or closing the phone, it has its own model picker with a backup, and you can edit the current chapter while it plays
