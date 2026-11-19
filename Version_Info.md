@@ -1,3 +1,13 @@
+# 20261119 Changelog
+- Fixed bug preventing plus members from upgrading to platinum on the home screen
+- WeyPhone apps and Foxfire Fortunes now use whatever API you have selected, the same as the chat (they were stuck on HelixMind)
+- Foxfire Fortunes: your spread and an unsealed fortune survive a failed request or closing the phone, it has its own model picker with a backup, and you can edit the current chapter while it plays
+- "Change Character's Costume" now opens Mien: **Wear, Keep on and Take off any outfit**, and browse each character's outfits on duo cards
+- bonus outfits are now a Paw Patrol Plus perk (they were Platinum only)
+- Mien hides Lingerie, Naked and Lounge while NSFW images are hidden. NSFW toggle is now on Mien
+- many bug fixes
+
+
 # 20261118 Changelog
 
 - new WeyPhone app: Foxfire Fortunes (currently Paw Patrol Platinum exclusive, will become PP Plus after alpha testing). Ellie reads you a fortune, and your roleplay follows it like a loose script
