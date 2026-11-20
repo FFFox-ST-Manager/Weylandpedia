@@ -40,6 +40,21 @@ The Great Expansion devastated several demihuman species. Some were wiped out en
 
 **Native American History:** Native Americans existed as a distinct human population, separate from the demihuman species. The Trail of Tears, forced relocations and systematic persecution affected Native American tribes specifically, not draconids, vampires or other demihumans. Some demihuman species (particularly draconids) faced their own persecution during this period, but these were parallel and separate historical traumas affecting different communities. Native Americans and demihuman populations rarely interacted during this era, and the two should not be conflated.
 
+## Japan and the West Coast
+How did Japan come to colonize America's West Coast?
+
+**A Nervous Japan:** By around 1600, Spain had conquered the Philippines, right on Japan's doorstep. Japan was deeply afraid of being invaded by Spain or France, and of having its religion and culture torn away. Christianity had already reached Japan, and its Japanese Christians held loyalty to Rome, the home of the faith at the time, which the ruling powers hated. Worse were the stories that these European powers sent in priests first, and that once the priests began preaching, the military soon followed.
+
+In the 1610s, Japan outlawed Christianity entirely, bringing executions, persecution and decades of turmoil, riots and rebellion. In 1639, Japan expelled the Portuguese, its main Catholic traders. At the same time, the country was left with a huge number of masterless ronin, samurai with no lord after years of civil war.
+
+**The Turning Point:** Japan sealed itself off in the 1630s, and it shipped them out: Christians, exiles, ronin and anyone else nobody wanted. Then Japan closed the door behind them.
+
+The route already existed. Japan had sent people across the Pacific to Mexico as early as 1613, and the **Kuroshio Current** works like a conveyor belt across the ocean, carrying ships straight to the West Coast of North America. Japanese castaways had been drifting there by accident for centuries.
+
+**On Their Own:** No reinforcements were ever coming. Nobody in Japan was waiting for the winds to shift; the colonists were on their own from day one. They had to become scrappy and self-sufficient fast, and that hardship shaped Japanese-American culture. It also produced **Seishism**: Japanese Christians and Shinto followers, cast out together and stranded on the far side of the ocean, stuck together and blended their faiths into one.
+
+**Spain Arrives Too Late:** On paper, Spain claimed the entire West Coast, but it didn't actually try to settle California until 1769. For nearly two centuries, Spanish galleons sailed right past it on their way home from Manila and never stopped. By the time Spain showed up, Japanese towns were already established, and fighting them at the far edge of the Spanish empire wasn't worth the cost. Those Japanese settlements went on to merge with the American colonies of the East Coast during the creation of the United States.
+
 ## Origin of Weyland University
 Weyland University was founded in 1871 in the newly established town of Weyland, California. It sits on the northern coast, where the Japanese and American colonial territories met. The university was founded at the height of westward expansion, when some demihuman species were well integrated into colonized society and others were on the verge of integration.
 
@@ -122,7 +137,7 @@ The Kemetic diet is deeply rooted in ancient tradition and local agriculture.
 - **Honey:** The most revered ingredient. Beyond sweetening food, it is used in religious rituals and medicine and is considered a divine gift. High-quality honey is a symbol of wealth and piety.
 
 ## Seishism
-Seishism is a syncretic religion that blends Shinto animism with Christian monotheistic structure. It has been practiced continuously since it emerged during the Japanese-American colonial period. It has hundreds of millions of followers worldwide, concentrated heavily in Japan, the American Pacific Northwest and Japanese-American diaspora communities. It is the dominant religion of kitsune communities worldwide, though people of every species and ethnicity practice it. It is both a living faith and a foundation of Japanese-American cultural identity.
+Seishism is a syncretic religion that blends Shinto animism with Christian monotheistic structure. It has been practiced continuously since it emerged during the Japanese-American colonial period, when Japanese Christians and Shinto followers were exiled together from Japan to the West Coast blended their faiths (see *Japan and the West Coast*). It has hundreds of millions of followers worldwide, concentrated heavily in Japan, the American Pacific Northwest and Japanese-American diaspora communities. It is the dominant religion of kitsune communities worldwide, though people of every species and ethnicity practice it. It is both a living faith and a foundation of Japanese-American cultural identity.
 
 **Core Philosophy (Presence Over Worship):**
 Practitioners believe in a single, all-powerful, all-knowing creator god, called simply **The Architect** (大工, Daiku). The Architect is not worshipped in the traditional sense. Followers don't believe he requires or particularly wants prayer, offerings or devotion. He is not evil, but he is not the embodiment of goodness either. He is vast, mysterious and largely indifferent to individual suffering in the way that weather is indifferent: powerful, present, and operating on a scale that makes individual moral judgment irrelevant to his actions. Within Seishism, this is not considered a troubling position. It is considered an honest one.
